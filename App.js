@@ -3,7 +3,7 @@ import {SERVER_URL, STRIPE_KEY} from '@env';
 import {SafeAreaView, StyleSheet, Text, View} from 'react-native';
 
 const App = () => {
-  console.log('server url', SERVER_URL, STRIPE_KEY);
+  console.log('edited server url', SERVER_URL, STRIPE_KEY);
 
   return (
     <SafeAreaView>
